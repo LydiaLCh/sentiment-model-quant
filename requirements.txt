@@ -1,0 +1,12 @@
+pandas
+numpy
+yfinance
+scikit-learn
+matplotlib
+seaborn
+transformers
+torch
+tqdm
+jupyter
+xgboost
+requests
