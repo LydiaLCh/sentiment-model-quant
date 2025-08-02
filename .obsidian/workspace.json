@@ -107,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3b3328a341a046b3",
@@ -199,9 +200,9 @@
   },
   "active": "53060313a51e9de4",
   "lastOpenFiles": [
-    "docs/theory/Templatefile.md.md",
-    "docs/theory/02_sentiment_modeling.md.md",
     "docs/theory/01_data_exploration.md.md",
+    "docs/theory/02_sentiment_modeling.md.md",
+    "docs/theory/Templatefile.md.md",
     "src/DEVLOPMENT_LOG.md.md",
     "docs/theory",
     "docs"
