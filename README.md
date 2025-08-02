@@ -11,5 +11,14 @@ Features:
  Database integration: Save all the simulations to a relational database. The inputs and outputs are stored in separate, linked tables: 
  - Inputs table: ticker, date, sentiment score, base volatility, user prices
  - Outputs table: volatility and price shocks, calculated P/L, calculation ID
-	Modular UI via Streamlit: Intuitive controls for selecting ticker, sentiment scenario and purchase price + tabs for simulation, history and summary stats 
+	Modular UI via Streamlit: Intuitive controls for selecting ticker, sentiment scenario and purchase price + tabs for simulation, history and summary stats
+
+Notebooks directory: 
+notebooks/ contains experimental and research driven components of the project, which are used to prototype the models and logic before productionising them in src/
+
+| Notebook                      | Purpose                                                                                                                      
+| `1_data_exploration.ipynb`    | Loads historical stock data and explores pricing, volume, volatility patterns                                                    |
+| `2_sentiment_modeling.ipynb`  | Scrapes headlines or social media content, scores sentiment using VADER / finBERT, and analyzes correlation with market movement |
+| `3_feature_engineering.ipynb` | Engineers features such as sentiment rolling average, volatility bands, or lagged returns for model input                        |
+| `4_backtesting.ipynb`         | Simulates trading strategies using sentiment-influenced option pricing; validates P/L predictions vs historical movements    
  	
