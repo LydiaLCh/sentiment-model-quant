@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "acc4a62021fcfa35",
+    "type": "split",
+    "children": [
+      {
+        "id": "83a12bbac84c2da5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e4e1c7362220ac4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/theory/01_data_exploration.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01_data_exploration.md"
+            }
+          },
+          {
+            "id": "c293a9a7b341538a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/theory/02_sentiment_modeling.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02_sentiment_modeling.md"
+            }
+          },
+          {
+            "id": "53060313a51e9de4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/theory/02_sentiment_modeling.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02_sentiment_modeling.md"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7a87b4bf73ccca19",
+    "type": "split",
+    "children": [
+      {
+        "id": "b266fbbde1b7266c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "263c23908c4b7719",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e01acb908dae0aad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d51a9929fc9dabf7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3b3328a341a046b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "e556396f96165a41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "790175278b06cae1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/theory/02_sentiment_modeling.md.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 02_sentiment_modeling.md"
+            }
+          },
+          {
+            "id": "3978f57414fc6a9d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/theory/02_sentiment_modeling.md.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 02_sentiment_modeling.md"
+            }
+          },
+          {
+            "id": "72613670871587b2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bd4015479dbd27ab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/theory/02_sentiment_modeling.md.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 02_sentiment_modeling.md"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "53060313a51e9de4",
+  "lastOpenFiles": [
+    "docs/theory/Templatefile.md.md",
+    "docs/theory/02_sentiment_modeling.md.md",
+    "docs/theory/01_data_exploration.md.md",
+    "src/DEVLOPMENT_LOG.md.md",
+    "docs/theory",
+    "docs"
+  ]
+}
