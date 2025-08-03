@@ -44,8 +44,15 @@ Goals:
 	* statsmodels 
 	* missingno or ydata-profiling 
 
-## 3. Insights
-What you learned from doing it, surprises, or decisions made.
+## 3. Insights / Conclusions 
+
+Features in a [[historical price dataset]]  
+In markets overnight, when exchanges are closed, market-moving information still flows in [[markets overnight]] 
+
+Conclusions: 
+1. Sampling frequency chosen: 
+	Hourly frequency to align with sentiment scores: captures intraday movement and align with multiple sentiment updates, while not being overly noisy and dominated by bid/ask jumps or low liquidity, and being a manageable data size. Additionally, with hourly data, I can resample it to daily/weekly if needed, but still zoom in on intraday sentiment-to-price impact. 
+
 
 ## 4. Links / References
 - External reading (Investopedia, papers, docs)
