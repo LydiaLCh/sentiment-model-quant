@@ -54,7 +54,9 @@ Conclusions:
 	Hourly frequency to align with sentiment scores: captures intraday movement and align with multiple sentiment updates, while not being overly noisy and dominated by bid/ask jumps or low liquidity, and being a manageable data size. Additionally, with hourly data, I can resample it to daily/weekly if needed, but still zoom in on intraday sentiment-to-price impact. 
 2. [[Missing Value analysis]]
 3. [[concepts/IQR vs MEDIAN]] 
-4. 
+4. [[concepts/Pearson correlation]] 
+5. [[concepts/Spearman correlation]]
+6. 
 
 
 ## 4. Links / References

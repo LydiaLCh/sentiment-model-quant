@@ -171,9 +171,11 @@
   },
   "active": "e41e4f635e750992",
   "lastOpenFiles": [
+    "concepts/Spearman correlation.md",
+    "docs/theory/01_data_exploration.md.md",
+    "concepts/Pearson correlation.md",
     "concepts/IQR vs MEDIAN.md",
     "concepts/log return.md",
-    "docs/theory/01_data_exploration.md.md",
     "terminology/IQR vs MEDIAN.md",
     "terminology/Missing Value analysis.md",
     "concepts/Missing Value analysis 1.md",
