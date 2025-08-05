@@ -52,6 +52,7 @@ In markets overnight, when exchanges are closed, market-moving information still
 Conclusions: 
 1. Sampling frequency chosen: 
 	Hourly frequency to align with sentiment scores: captures intraday movement and align with multiple sentiment updates, while not being overly noisy and dominated by bid/ask jumps or low liquidity, and being a manageable data size. Additionally, with hourly data, I can resample it to daily/weekly if needed, but still zoom in on intraday sentiment-to-price impact. 
+2. [[terminology/Missing Value analysis/]] 
 
 
 ## 4. Links / References
