@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/Spearman correlation.md",
+                "file": "concepts/Sentiment Analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spearman correlation"
+              "title": "Sentiment Analysis"
             }
           }
         ]
@@ -172,6 +172,7 @@
   "active": "e41e4f635e750992",
   "lastOpenFiles": [
     "docs/theory/01_data_exploration.md.md",
+    "concepts/Sentiment Analysis.md",
     "concepts/Spearman correlation.md",
     "concepts/Pearson correlation.md",
     "concepts/IQR vs MEDIAN.md",

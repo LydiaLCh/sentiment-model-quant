@@ -56,7 +56,8 @@ Conclusions:
 3. [[concepts/IQR vs MEDIAN]] 
 4. [[concepts/Pearson correlation]] 
 5. [[concepts/Spearman correlation]]
-6. 
+6. [[concepts/Sentiment Analysis]] 
+7. 
 
 
 ## 4. Links / References
