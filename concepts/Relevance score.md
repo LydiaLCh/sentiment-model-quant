@@ -1,0 +1,2 @@
+The relevance score tells you how strongly the news item is related to the ticker - a higher relevance means the sentiment likely impacts the ticker more 
+By weighing the sentiment scores by relevance before averaging, more relevant news are emphasised, which gives a more accurate model prediction 
